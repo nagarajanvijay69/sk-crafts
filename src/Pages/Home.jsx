@@ -9,7 +9,7 @@ const Home = () => {
       <Navbar />
       </div>
     <div className="homepage">
-      <img src="src\assets\sk.png" alt="Sk Logo" className='brand-img' />
+      <img src="..\sk.png" alt="Sk Logo" className='brand-img' />
       <p className='text'>Desing ~ Making For You</p>
       <p className='text-2'>Creative Design</p>
       <p className='text-2'>Personalized Gifts</p>
