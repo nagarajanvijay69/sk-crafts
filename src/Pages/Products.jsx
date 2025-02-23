@@ -13,14 +13,14 @@ const Products = () => {
       <a href="https://wa.me/p/7997032913737634/917092572394" target='_blank'>
       <div className="one">
         <img src="./product1.jpg" alt="product-1" className='img-product'/>
-        <p className='parag'><div className="extra">Sample - 1</div>Happy Birthday & Wedding Anniversary Love Customize Frame</p>
+        <p className='parag'><div className="extra">Sample - 1</div>Happy Birthday wishes Customize Frame</p>
       </div>
 
       </a>
       <a href="https://wa.me/p/7997032913737634/917092572394" target='_blank'>
       <div className="two">
         <img src="./product2.jpg" alt="product-2" className='img-product'/>
-        <p className='parag'><div className="extra">Sample - 2</div>Happy Birthday & Wedding Anniversary Love Customize Frame</p>
+        <p className='parag'><div className="extra">Sample - 2</div>Happy Birthday wishes Customize Frame</p>
       </div>
 
       </a>
@@ -28,14 +28,14 @@ const Products = () => {
 
       <div className="three">
         <img src="./product3.jpg" alt="product-3" className='img-product'/>
-        <p className='parag'><div className="extra">Sample - 1</div>Special Photo Frame with Lot of Photos in Some Different Design</p>
+        <p className='parag'><div className="extra">Sample - 1</div>Special Photo Frame Different Design</p>
       </div>
       </a>
       <a href="https://wa.me/c/917092572394" target='_blank'>
 
       <div className="four">
         <img src="./product4.jpg" alt="product-4" className='img-product'/>
-        <p className='parag'><div className="extra">Sample - 2</div>Special Photo Frame with Lot of Photos in Some Different Design</p>
+        <p className='parag'><div className="extra">Sample - 2</div>Photo Frame with Different Design</p>
       </div>
       </a>
       <a href="https://wa.me/p/8194808420541048/917092572394" target='_blank'>
