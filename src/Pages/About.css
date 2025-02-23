@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:wght@300;400;500;600&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&family=Ysabeau+SC:wght@1..1000&display=swap');
+
+
+.about{
+     margin-top: 6em;
+     color: rgb(0, 0, 0);
+     width: 100%;
+     text-align: center;
+     font-family: "Poppins", serif;
+     box-sizing: border-box;
+     width: 99vw;
+}
+
+.mini-contact{
+     text-align: center;
+     gap: 20px;
+     list-style: none;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     color: rgb(0, 0, 0);
+     margin-right: 3%;
+}
+
+.heading{
+     margin: 25px 20px;
+     font-size: 2em;
+}
+
+.para{
+     margin: 0 25px;
+     font-size: 1.2em;
+}
+
+.down{
+     margin-top: 20em;
+}
+
+@media(max-width:650px){
+     .down{
+          margin-top: 6em;
+     }
+
+    .about{
+     width: 96dvw;
+    }
+
+    .mini-contact{
+       margin-right: 6%;
+}
+}
