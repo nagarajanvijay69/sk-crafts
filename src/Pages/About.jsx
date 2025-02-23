@@ -16,8 +16,8 @@ const About = () => {
     <h3>Follow Me On</h3>
   <ul className="mini-contact">
         <li className='list'><a href="https://wa.me/c/917092572394" className='a' target='_blank'><i class="bi bi-whatsapp"></i></a></li>
-        <li className='list'><a href="https://youtube.com/@its_me_sk_001?si=3n2ZWPXln_wopNZB" className='a' target='_blank'><i class="bi bi-instagram"></i></a></li>
-        <li className='list'><a href="https://www.instagram.com/creative_sk_editz/" className='a' target='_blank'><i class="bi bi-youtube"></i></a></li>
+        <li className='list'><a href="https://www.instagram.com/creative_sk_editz/" className='a' target='_blank'><i class="bi bi-instagram"></i></a></li>
+        <li className='list'><a  href="https://youtube.com/@its_me_sk_001?si=3n2ZWPXln_wopNZB" className='a' target='_blank'><i class="bi bi-youtube"></i></a></li>
       </ul>
   </div>
  </div>
